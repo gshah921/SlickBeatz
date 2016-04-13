@@ -1,6 +1,6 @@
 {
   "name": "SlickBeatz",
   "tagline": "Sound Your Ears Can't Resist",
-  "body": "###E-Commerce Application",
+  "body": "# E-Commerce Application\r\n\r\nI built a full stack e-commerce application utilizing JavaScript, HTML5, CSS3, ASP.NET MVC (bootstrap), Angular JS, Entity Framework, T-SQL, and C#. My website was made to sell sound devices such as earphones, headphones, and speakers. I stored data into my database, which I then called into my application through an API.Check out some of the screenshots from my website below!\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
